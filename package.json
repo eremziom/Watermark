@@ -1,0 +1,11 @@
+{
+  "name": "Watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eremziom/Watermark.git",
+  "author": "Maciej Kryczka <maciejkryczka@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
